@@ -5,9 +5,15 @@ Name: Daniel Lubimov
 Major: Computer Programming and Analysis
 
 ## Skills
-- Programming: C++, JavaScript
+- Programming: Python, Java, C++, JavaScript
 - Git: Advanced
+- Web Development: HTML, CSS
 - Database: SQL
+=======
+- Programming: Python, Java
+- Git: Intermediate
+- Web Development: HTML, CSS
+>>>>>>> desktop-updates
 
 ## Projects
 - Project 1: TBD
